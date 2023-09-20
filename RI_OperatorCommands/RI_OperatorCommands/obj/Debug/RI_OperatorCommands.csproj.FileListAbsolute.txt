@@ -1,0 +1,6 @@
+C:\Users\Kumsal\source\repos\RI_OperatorCommands\RI_OperatorCommands\obj\Debug\RI_OperatorCommands.csproj.CoreCompileInputs.cache
+C:\Users\Kumsal\source\repos\RI_OperatorCommands\RI_OperatorCommands\bin\Debug\RI_OperatorCommands.dll
+C:\Users\Kumsal\source\repos\RI_OperatorCommands\RI_OperatorCommands\bin\Debug\RI_OperatorCommands.pdb
+C:\Users\Kumsal\source\repos\RI_OperatorCommands\RI_OperatorCommands\obj\Debug\RI_OperatorCommands.dll
+C:\Users\Kumsal\source\repos\RI_OperatorCommands\RI_OperatorCommands\obj\Debug\RI_OperatorCommands.pdb
+C:\Users\Kumsal\source\repos\RI_OperatorCommands\RI_OperatorCommands\obj\Debug\RI_OperatorCommands.csprojAssemblyReference.cache
